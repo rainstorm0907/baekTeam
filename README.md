@@ -1,7 +1,7 @@
 # baekTeam
 ### 260512
 작업일지
-  - 사육사조: 
+  - 사육사조: https://docs.google.com/document/d/1dVSdk9_XY6iGct6hbBqkIfOONJ4G7_REaNwQ3mR1rSQ/edit?usp=sharing
   - 세븐일레븐: https://www.notion.so/35ec6c4cb5158096945ed5118927d80a
   - 인텔리제이조: https://www.notion.so/WDR-34f50085f74e8067891af6416e91d69c
   - 남자만있조: 
